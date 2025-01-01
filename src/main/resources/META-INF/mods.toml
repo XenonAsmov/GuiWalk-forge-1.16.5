@@ -4,7 +4,7 @@ license="XenonAsmov Protective License"
 [[mods]]
 modId="example"
 version="1.0"
-displayName="HitMarker"
+displayName="GuiWalk"
 authors="XenonAsmov"
 description='''
     Github - https://github.com/XenonAsmov
